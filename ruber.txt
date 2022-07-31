@@ -11,7 +11,7 @@ usdt enviador para 2000 dolares.
 1000 dolares = 5.780
 
 1000 usdt
-5.8 usdt
+5.8
 1007 usdt
 
 17,829.14
